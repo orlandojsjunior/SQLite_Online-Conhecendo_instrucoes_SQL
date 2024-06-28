@@ -1,2 +1,4 @@
-SELECT * FROM tabelapedidos
+
+
+/* Importando as tabelas - fornecedores e pedidos
 
