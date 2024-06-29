@@ -1,4 +1,4 @@
 
 
-/* Importando as tabelas - fornecedores e pedidos
+-- Importando as tabelas - fornecedores e pedidos
 
