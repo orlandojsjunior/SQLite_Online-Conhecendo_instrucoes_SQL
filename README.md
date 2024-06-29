@@ -8,7 +8,7 @@ Conheça SQL, uma linguagem estruturada para consultas a bancos de dados relacio
 ### Principais tópicos do curso:
 
 - Conhecendo a linguagem SQL desde sua origem
-- Utilizando o SQLiteonline
+- Utilizando o SQLite online
 - Aprendendo os comandos para criar, alterar, excluir tabelas e inserir dados
 - Utilizando filtros em minhas consultas
 - Realizando diversos tipos de consultas no banco de dados
