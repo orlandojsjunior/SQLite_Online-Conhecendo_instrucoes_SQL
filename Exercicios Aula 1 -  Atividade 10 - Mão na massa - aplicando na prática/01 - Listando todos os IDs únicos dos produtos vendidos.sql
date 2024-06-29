@@ -1,5 +1,7 @@
 -- Listando todos os IDs únicos dos produtos vendidos
 
 
-SELECT DISTINCT id_produto
-FROM tabela_vendasdesafio_aula1; 
+SELECT
+    DISTINCT ID_PRODUTO
+FROM
+    TABELA_VENDASDESAFIO_AULA1;
