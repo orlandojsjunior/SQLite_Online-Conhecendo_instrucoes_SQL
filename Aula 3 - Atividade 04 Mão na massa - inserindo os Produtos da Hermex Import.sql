@@ -1,3 +1,5 @@
+SELECT * from tabelaprodutos;
+
 INSERT INTO tabelaprodutos (
   ID_Produto,
   Nome_do_Produto,
