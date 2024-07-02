@@ -1,0 +1,1 @@
+SELECT * from funcionarios WHERE departamento = 'Vendas';
