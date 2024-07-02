@@ -1,8 +1,0 @@
-CREATE TABLE tabelafornecedores (
-    ID INTEGER PRIMARY KEY,
-    Nome_do_Fornecedor TEXT VACHAR (250),
-    País_de_Origem TEXT VACHAR (250),
-    Informações_de_Contato TEXT VACHAR (250),
-    Data_de_Início DATE);
-    
-SELECT * FROM tabelafornecedores;
