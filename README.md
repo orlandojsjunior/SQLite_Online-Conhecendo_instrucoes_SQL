@@ -8,7 +8,7 @@ SQL, uma linguagem estruturada para consultas a bancos de dados relacionais, que
 
 ## [Curso de SQLite online: conhecendo instruções SQL](https://cursos.alura.com.br/course/sqlite-online-conhecendo-instrucoes-sql)
 
-Principais tópicos do curso
+### **Principais tópicos do curso**
 
 - Conhecendo a linguagem SQL desde sua origem
 - Utilizando o SQLite online
@@ -16,4 +16,4 @@ Principais tópicos do curso
 - Utilizando filtros em minhas consultas
 - Realizando diversos tipos de consultas no banco de dados
 
-## [Documentação Sqlite](https://www.sqlite.org/docs.html)
+### [Documentação Sqlite](https://www.sqlite.org/docs.html)
