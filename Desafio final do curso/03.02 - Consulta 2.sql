@@ -1,4 +1,4 @@
--- Consulta 2: Retorne as informações de todos os alunos ordenados pelo nome.ano_letivo
+-- Consulta 2: Retorne as informações de todos os alunos ordenados pelo nome.
 
 SELECT * 
 FROM alunos
