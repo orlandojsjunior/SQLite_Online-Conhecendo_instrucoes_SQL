@@ -16,4 +16,4 @@ SQL, uma linguagem estruturada para consultas a bancos de dados relacionais, que
 - Utilizando filtros em minhas consultas
 - Realizando diversos tipos de consultas no banco de dados
 
-### [Documentação Sqlite](https://www.sqlite.org/docs.html)
+### [Documentação SQlite](https://www.sqlite.org/docs.html)
